@@ -19,7 +19,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author ji|sheng|hua 华夏erp
+ * @author ji|sheng|hua 盒子erp
  */
 @RestController
 @RequestMapping(value = "/person")
